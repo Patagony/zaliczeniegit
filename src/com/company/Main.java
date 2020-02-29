@@ -10,6 +10,7 @@ public class Main
 
         System.out.println("Commit na zaliczenie z Gita");
         System.out.println("kolejny commit");
+        System.out.println("commit ostateczny");
 
 
         John tab[] = new John[1];
