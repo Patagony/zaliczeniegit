@@ -6,7 +6,7 @@ public class Main
     {
 
         System.out.println("Dodany commit");
-        
+
         John tab[] = new John[1];
         tab[0] = new John();
         tab[0].greetings();
