@@ -4,6 +4,9 @@ public class Main
 {
     public static void main(String[] args)
     {
+
+        System.out.println("Dodany commit");
+        
         John tab[] = new John[1];
         tab[0] = new John();
         tab[0].greetings();
