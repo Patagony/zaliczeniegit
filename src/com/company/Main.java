@@ -8,6 +8,8 @@ public class Main
         System.out.println("Dodany commit");
         System.out.println("Dodany commit2");
 
+        System.out.println("Commit na zaliczenie z Gita");
+
 
         John tab[] = new John[1];
         tab[0] = new John();
